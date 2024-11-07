@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Salut 👋, je suis Gaëlle Boucher</h1>
 <h3 align="center">Développeuse web freelance basée dans la Marne (51)</h3>
 
