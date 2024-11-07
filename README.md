@@ -45,5 +45,6 @@
 
 <h3 align="center">Mon parcours :</h3>
 
+- **Avril 2016**: Diplômée de la formation d'auxiliaire de puériculture
 - **Juin 2022**: Diplômée de la formation Développeur web chez OpenClassrooms
 - **Février 2024**: Création de ma micro-entreprise GB WebAssist
