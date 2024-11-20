@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis Gaëlle Boucher</h1>
-<h3 align="center">Développeuse web freelance basée dans la Marne (51)</h3>
+<h3 align="center">Développeuse web front-end freelance basée dans la Marne (51)</h3>
 
 <p align="center">
   <a href="[Lien vers ton portfolio ou site web -  GB WebAssist]">
