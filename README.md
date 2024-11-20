@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="[Lien vers ton portfolio ou site web -  GB WebAssist]">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7630A&width=435&lines=Je+crée+des+sites+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Je+dépanne+vos+ordinateurs+%F0%9F%92%BC;J'adore+les+nouvelles+technologies+%F0%9F%91%80;Et+New+York" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7630A&width=435&lines=Je+crée+des+sites+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Je+dépanne+vos+ordinateurs+%F0%9F%92%BC;J'adore+les+nouvelles+technologies+%F0%9F%91%80;Et+New+York+%F0%9F%9A%95" alt="Typing SVG" />
   </a>
 </p>
 
