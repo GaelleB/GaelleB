@@ -12,7 +12,7 @@
 - 🔭 Je travaille actuellement sur des projets personnels pour développer mon portfolio
 - 🌱 J'apprends actuellement à maitriser React.js et ses frameworks
 - 👯 Je cherche à collaborer sur des projets web innovants et stimulants
-- 💬 Demandez-moi n'importe quoi à propos de HTML, CSS, JavaScript, Vue.js, React.js et Node.js
+- 💬 Demandez-moi n'importe quoi à propos de HTML, CSS, JavaScript, React.js et Node.js
 - 📫 Comment me joindre : gaelleboucher.dev@gmail.com
 - ⚡ Fait amusant : J'ai quitté la région parisienne pour vivre à la campagne !
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vuejs,bootstrap,nodejs,git,github,visualstudiocode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,git,github,visualstudiocode" />
   </a>
 </p>
 
