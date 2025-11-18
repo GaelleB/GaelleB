@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://gaelle-boucher.dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7630A&width=500&lines=Je+crée+des+sites+qui+révèlent+votre+univers+éditorial+📖;Webzines+•+Magazines+•+Maisons+d'édition+✨;React+%2B+Next.js+%2B+Storytelling+🔥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7630A&width=500&lines=Sites+qui+révèlent+votre+univers+éditorial+📖;Webzines+•+Magazines+•+Maisons+d'édition+✨;React+%2B+Next.js+%2B+Storytelling+🔥" alt="Typing SVG" />
   </a>
 </p>
 
