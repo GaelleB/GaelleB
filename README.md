@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, je suis Gaëlle Boucher</h1>
+<h1 align="center">Salut 👋, je suis Gaëlle</h1>
 <h3 align="center">Développeuse React/Next.js | Projets éditoriaux & culturels</h3>
 
 <p align="center">
@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7630A&width=500&lines=Je+crée+des+sites+qui+révèlent+votre+univers+éditorial+📖;Webzines+•+Magazines+•+Maisons+d'édition+✨;React+%2B+Next.js+%2B+Storytelling+🔥" alt="Typing SVG" />
   </a>
 </p>
-
 
 
 <h3 align="center">💙 Mon approche</h3>
@@ -18,14 +17,12 @@ Pas des templates. Des identités.
 </p>
 
 
-
 <h3 align="center">🎯 Pour qui je travaille</h3>
 
 - 📖 **Webzines** - Magazines en ligne qui racontent des histoires
 - 📰 **Médias culturels** - Plateformes éditoriales avec une voix
 - 📚 **Maisons d'édition** - Projets littéraires et culturels
 - ✍️ **Créateurs de contenu** - Tous ceux qui ont une histoire à raconter
-
 
 
 <h3 align="center">🛠️ Ma stack technique</h3>
@@ -35,7 +32,6 @@ Pas des templates. Des identités.
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,typescript,html,css,git,github,vscode" />
   </a>
 </p>
-
 
 
 <h3 align="center">📊 Mes stats GitHub</h3>
@@ -59,7 +55,6 @@ Pas des templates. Des identités.
 </p>
 
 
-
 <h3 align="center">🌟 Mon univers</h3>
 
 <p align="center">
@@ -69,12 +64,11 @@ C'est ce mélange qui guide ma manière de coder.
 </p>
 
 
-
 <h3 align="center">📫 Me contacter</h3>
 
 <p align="center">
   <a href="https://gaelle-boucher.dev">🌐 Site web</a> • 
-  <a href="https://linkedin.com/in/gaelleboucher">💼 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/gaelle-boucher/">💼 LinkedIn</a> • 
   <a href="mailto:gaelleboucher.dev@gmail.com">📧 Email</a>
 </p>
 
@@ -83,7 +77,6 @@ C'est ce mélange qui guide ma manière de coder.
 </p>
 
 
-
 <p align="center">
-  <em>👉🏼 Moi, c'est Gaëlle. Développeuse web. Je te crée un site qui raconte ton histoire 📖</em>
+  <em>👉🏼 Moi, c'est Gaëlle, développeuse web. Je te crée un site qui raconte ton histoire 📖</em>
 </p>
